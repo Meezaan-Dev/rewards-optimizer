@@ -3,7 +3,7 @@ import type {
     RewardRule,
 } from "@/features/rewards/lib/types";
 
-export const generatedAt = "2026-06-23T15:04:17.130Z";
+export const generatedAt = "2026-06-24T20:17:05.671Z";
 
 export const generatedSourceStatus = {
     "mode": "synced",
@@ -167,8 +167,8 @@ export const generatedRewardRules: RewardRule[] = [
         "sourceName": "Standard Bank UCount",
         "sourceExtract": "UCount describes Rewards Retailers and qualifying-card earn.",
         "active": true,
-        "lastUpdated": "2026-06-23",
-        "lastFetched": "2026-06-23T15:04:17.130Z",
+        "lastUpdated": "2026-06-24",
+        "lastFetched": "2026-06-24T20:17:05.671Z",
         "confidence": "high"
     },
     {
@@ -189,8 +189,8 @@ export const generatedRewardRules: RewardRule[] = [
         "sourceName": "Standard Bank UCount",
         "sourceExtract": "UCount describes Rewards Retailers and qualifying-card earn.",
         "active": true,
-        "lastUpdated": "2026-06-23",
-        "lastFetched": "2026-06-23T15:04:17.130Z",
+        "lastUpdated": "2026-06-24",
+        "lastFetched": "2026-06-24T20:17:05.671Z",
         "confidence": "high"
     },
     {
@@ -210,8 +210,8 @@ export const generatedRewardRules: RewardRule[] = [
         "sourceName": "Standard Bank UCount",
         "sourceExtract": "UCount describes fuel rewards at Astron Energy and Caltex.",
         "active": true,
-        "lastUpdated": "2026-06-23",
-        "lastFetched": "2026-06-23T15:04:17.130Z",
+        "lastUpdated": "2026-06-24",
+        "lastFetched": "2026-06-24T20:17:05.671Z",
         "confidence": "high"
     },
     {
@@ -231,8 +231,8 @@ export const generatedRewardRules: RewardRule[] = [
         "sourceName": "Standard Bank UCount",
         "sourceExtract": "UCount describes fuel rewards at Astron Energy and Caltex.",
         "active": true,
-        "lastUpdated": "2026-06-23",
-        "lastFetched": "2026-06-23T15:04:17.130Z",
+        "lastUpdated": "2026-06-24",
+        "lastFetched": "2026-06-24T20:17:05.671Z",
         "confidence": "high"
     },
     {
@@ -254,8 +254,8 @@ export const generatedRewardRules: RewardRule[] = [
         "sourceName": "Discovery Miles",
         "sourceExtract": "Discovery describes HealthyFood rewards at Checkers and Woolworths.",
         "active": true,
-        "lastUpdated": "2026-06-23",
-        "lastFetched": "2026-06-23T15:04:17.130Z",
+        "lastUpdated": "2026-06-24",
+        "lastFetched": "2026-06-24T20:17:05.671Z",
         "confidence": "high"
     },
     {
@@ -277,8 +277,8 @@ export const generatedRewardRules: RewardRule[] = [
         "sourceName": "Discovery Miles",
         "sourceExtract": "Discovery describes HealthyFood rewards at Checkers and Woolworths.",
         "active": true,
-        "lastUpdated": "2026-06-23",
-        "lastFetched": "2026-06-23T15:04:17.130Z",
+        "lastUpdated": "2026-06-24",
+        "lastFetched": "2026-06-24T20:17:05.671Z",
         "confidence": "high"
     },
     {
@@ -299,8 +299,8 @@ export const generatedRewardRules: RewardRule[] = [
         "sourceName": "Discovery Miles",
         "sourceExtract": "Discovery describes HealthyCare rewards at Clicks and Dis-Chem.",
         "active": true,
-        "lastUpdated": "2026-06-23",
-        "lastFetched": "2026-06-23T15:04:17.130Z",
+        "lastUpdated": "2026-06-24",
+        "lastFetched": "2026-06-24T20:17:05.671Z",
         "confidence": "high"
     },
     {
@@ -321,8 +321,8 @@ export const generatedRewardRules: RewardRule[] = [
         "sourceName": "Discovery Miles",
         "sourceExtract": "Discovery describes HealthyCare rewards at Clicks and Dis-Chem.",
         "active": true,
-        "lastUpdated": "2026-06-23",
-        "lastFetched": "2026-06-23T15:04:17.130Z",
+        "lastUpdated": "2026-06-24",
+        "lastFetched": "2026-06-24T20:17:05.671Z",
         "confidence": "high"
     },
     {
@@ -343,8 +343,8 @@ export const generatedRewardRules: RewardRule[] = [
         "sourceName": "Discovery Miles",
         "sourceExtract": "Discovery describes fuel rewards at bp and select Shell sites.",
         "active": true,
-        "lastUpdated": "2026-06-23",
-        "lastFetched": "2026-06-23T15:04:17.130Z",
+        "lastUpdated": "2026-06-24",
+        "lastFetched": "2026-06-24T20:17:05.671Z",
         "confidence": "high"
     },
     {
@@ -365,8 +365,8 @@ export const generatedRewardRules: RewardRule[] = [
         "sourceName": "Discovery Miles",
         "sourceExtract": "Discovery describes fuel rewards at bp and select Shell sites.",
         "active": true,
-        "lastUpdated": "2026-06-23",
-        "lastFetched": "2026-06-23T15:04:17.130Z",
+        "lastUpdated": "2026-06-24",
+        "lastFetched": "2026-06-24T20:17:05.671Z",
         "confidence": "high"
     },
     {
@@ -387,8 +387,8 @@ export const generatedRewardRules: RewardRule[] = [
         "sourceName": "Discovery Miles",
         "sourceExtract": "Discovery describes transport rewards including Uber.",
         "active": true,
-        "lastUpdated": "2026-06-23",
-        "lastFetched": "2026-06-23T15:04:17.130Z",
+        "lastUpdated": "2026-06-24",
+        "lastFetched": "2026-06-24T20:17:05.671Z",
         "confidence": "high"
     }
 ];
