@@ -78,8 +78,17 @@ export function RewardsAppShell({ children }: RewardsAppShellProps) {
                 {children}
             </main>
 
-            <footer className="mx-auto max-w-7xl px-4 pb-[calc(5.5rem+env(safe-area-inset-bottom))] text-xs font-medium text-zinc-500 sm:px-6 md:pb-8 lg:px-8">
-                Estimates only. Check official programme terms before spending.
+            <footer className="mx-auto max-w-7xl px-4 pb-[calc(5.5rem+env(safe-area-inset-bottom))] text-xs font-medium leading-5 text-zinc-500 sm:px-6 md:pb-8 lg:px-8">
+                <p>
+                    Independent resource — not affiliated with UCount, Discovery
+                    Miles, or any retailer.{" "}
+                    <Link
+                        className="font-extrabold text-zinc-700 underline underline-offset-2 hover:text-zinc-950"
+                        href="/legal"
+                    >
+                        Legal disclaimer
+                    </Link>
+                </p>
             </footer>
 
             <nav
